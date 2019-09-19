@@ -1,0 +1,23 @@
+{
+  "name": "projetomvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoDannielDev/projetomvp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoDannielDev/projetomvp/issues"
+  },
+  "homepage": "https://github.com/DiegoDannielDev/projetomvp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
